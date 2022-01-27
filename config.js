@@ -32,7 +32,7 @@ const LIST_ITEMS = [
   },
   {
     name: "TT",
-    link: "https://business.tiktok.com/manage/member?org_id=7057591459096035329"
+    link: "https://ads.tiktok.com/i18n/dashboard?aadvid=7052471507221643266"
   },
   
   {
